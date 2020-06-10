@@ -5,7 +5,7 @@ $ErrorActionPreference = "Stop"
 .SYNOPSIS
   Script para la limpieza de equipos de BBTK para teletrabajo
 .LINK
-  xxx
+  https://github.com/bcuestav/esit-cc-cleanup-bbtk-laptop
 #>
 # Leemos la cuenta actual
 $cuenta = [Environment]::UserName
