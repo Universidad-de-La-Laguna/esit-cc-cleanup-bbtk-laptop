@@ -7,6 +7,18 @@ $ErrorActionPreference = "Stop"
 .LINK
   https://github.com/bcuestav/esit-cc-cleanup-bbtk-laptop
 #>
+
+# Forzamos a que el script se ejecute con privilegios de administrador
+function Test-Admin {
+  $currentUser = New-Object Security.Principal.WindowsPrincipal $([Security.Principal.WindowsIdentity]::GetCurrent())
+  $currentUser.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator)
+}
+
+if ((Test-Admin) -eq $false)  {
+    Start-Process powershell.exe -Verb RunAs -ArgumentList ('-noprofile -noexit -file "{0}" -elevated' -f ($myinvocation.MyCommand.Definition))
+    exit
+}
+
 # Leemos la cuenta actual
 $cuenta = [Environment]::UserName
 
