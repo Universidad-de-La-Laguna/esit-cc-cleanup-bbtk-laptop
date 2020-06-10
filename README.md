@@ -1,6 +1,4 @@
-# esit-cc-cleanup-bbtk-laptop
-
-Script para la limpieza de portátiles de BBTK preparados para teletrabajo.
+# Script para la limpieza de portátiles de BBTK preparados para teletrabajo.
 
 El script elimina la cuenta con la que se ha iniciado sesión (en los portátiles para teletrabajo es el usuario `Usuario`) y la vuelve a crear. Eso elimina por completo el perfil del usuario y la información personal que tuviera asociada.
 
