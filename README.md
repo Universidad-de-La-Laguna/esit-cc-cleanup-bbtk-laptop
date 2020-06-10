@@ -12,11 +12,11 @@ Seguir las siguientes instrucciones:
 
   1. Abrir una consola `Windows Powershell` como administrador.
 
-  Para ello, escribir "powershell" en el cuadro de búsqueda de Windows y seleccionar `Ejecutar como administrador`. Saldrá una ventana indicando si se quieren permitir que se hagan cambios en el dispositivo, a la que hay que contestar que `Sí`.
+  Para ello, escribir `powershell` en el cuadro de búsqueda de Windows y seleccionar `Ejecutar como administrador`. Saldrá una ventana indicando si se quieren permitir que se hagan cambios en el dispositivo, a la que hay que contestar que `Sí`.
 
   2. Habilitar la ejecución de scripts.
 
-  Para ello, escribir la instrucción `Set-ExecutionPolicy Unrestricted` y pulsar *Enter*. Cuando pregunte si se *quiere cambiar la directiva de ejecución*, responder con una `S` y pulsar *Enter*.
+  En la nueva ventana que se abrió en el paso anterior, escribir la instrucción `Set-ExecutionPolicy Unrestricted` y pulsar *Enter*. Cuando pregunte si se *quiere cambiar la directiva de ejecución*, responder con una `S` y pulsar *Enter*.
 
 <p align="center">
     <img src="resources/images/powershell1.png" alt="Abrir consola Powershell" width="400"/>
