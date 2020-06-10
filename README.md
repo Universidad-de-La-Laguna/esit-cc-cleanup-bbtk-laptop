@@ -19,8 +19,8 @@ Seguir las siguientes instrucciones:
   Para ello, escribir la instrucción `Set-ExecutionPolicy Unrestricted` y pulsar *Enter*. Cuando pregunte si se *quiere cambiar la directiva de ejecución*, responder con una `S` y pulsar *Enter*.
 
 <p align="center">
-    <img src="resources/images/powershell1.png" alt="Abrir consola Powershell" width="500"/>
-    <img src="resources/images/powershell2.png" alt="Cambiar directiva de ejecucion" width="500"/>
+    <img src="resources/images/powershell1.png" alt="Abrir consola Powershell" width="400"/>
+    <img src="resources/images/powershell2.png" alt="Cambiar directiva de ejecucion" width="400"/>
 </p>
 
 Una vez hecho, ya se puede cerrar la ventana de la consola Powershell.
