@@ -5,7 +5,7 @@ $ErrorActionPreference = "Stop"
 .SYNOPSIS
   Script para la limpieza de equipos de BBTK para teletrabajo
 .LINK
-  https://github.com/bcuestav/esit-cc-cleanup-bbtk-laptop
+  https://github.com/Universidad-de-La-Laguna/esit-cc-cleanup-bbtk-laptop
 #>
 
 # Forzamos a que el script se ejecute con privilegios de administrador
