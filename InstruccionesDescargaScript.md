@@ -4,4 +4,4 @@
 
    2. Vaya a la carpeta `Descargas` y descomprima el fichero descargado `esit-cc-cleanup-bbtk-laptop-master.zip`.
 
-   3. Localice el fichero `bbtk_cleanup.ps1` y copielo en un pendrive.
+   3. Localice los ficheros `bbtk_cleanup.ps1` y `ExecutionPolicyUnrestricted.reg` y cópielos en un pendrive.
