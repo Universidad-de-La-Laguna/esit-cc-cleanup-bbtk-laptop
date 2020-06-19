@@ -49,4 +49,4 @@ Write-Host "Cuenta $borrar eliminada correctamente"
 
 Write-Host "Este script ha terminado. En 5 segundos se cerrará la sesión actual"
 Start-Sleep -s 5
-logoff
+shutdown -L
