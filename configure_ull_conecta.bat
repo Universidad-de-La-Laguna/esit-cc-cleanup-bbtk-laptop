@@ -1,0 +1,1 @@
+netsh wlan add profile filename=ULL-CONECTA.xml user=all
