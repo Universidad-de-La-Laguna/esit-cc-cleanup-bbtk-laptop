@@ -54,7 +54,7 @@ Para que se pueda conectar a la wifi `ULL-CONECTA` es necesario ejecutar el sigu
 
 <table>
 <tr>
-<td><p align="center"><img src="resources/images/script-wifi-1.png" alt="Ejecutar como administrador" width="200"/></p></td>
+<td><p align="center"><img src="resources/images/script-wifi-1.png" alt="Ejecutar como administrador" width="300"/></p></td>
 <td><p align="center"><img src="resources/images/script-wifi-2.png" alt="Proteccion" width="200"/></p></td>
 <td><p align="center"><img src="resources/images/script-wifi-3.png" alt="Ejecucion" width="200"/></p></td>
 </tr>
