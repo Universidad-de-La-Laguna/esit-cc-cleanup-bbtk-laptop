@@ -14,7 +14,7 @@ Básicamente el portátil tendrá la configuración de fábrica, con un usuario 
 <td><p align="center"><img src="resources/images/IMG_6072.JPG" alt="Conectar a la red" width="200"/></p></td>
 </tr>
 <tr>
-<td><p align="center">1. Conectar a la alimentación,encender el portátil. Cuando pregunte, seleccionar `España` pulsando `Sí`.</p></td>
+<td><p align="center">1. Conectar a la alimentación,encender el portátil. Cuando pregunte por la región, seleccionar `España` pulsando `Sí`.</p></td>
 <td><p align="center">2. En la distribución de teclado, seleccionar `Español` pulsando `Sí`.</p></td>
 <td><p align="center">3. Pulsar el botón `Omitir` cuando se pregunte por una segunda distribución de teclado.</p></td>
 <td><p align="center">4. Pulsar en `Omitir por ahora` en la pantalla de conexión a la red.</p></td>
