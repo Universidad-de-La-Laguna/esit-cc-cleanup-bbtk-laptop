@@ -56,7 +56,7 @@ Para que se pueda conectar a la wifi `ULL-CONECTA` es necesario ejecutar el sigu
 <tr>
 <td><p align="center"><img src="resources/images/script-wifi-4.JPG" alt="Ejecutar como administrador" width="300"/></p></td>
 <td><p align="center"><img src="resources/images/script-wifi-5.JPG" alt="Proteccion" width="200"/></p></td>
-<td><p align="center"><img src="resources/images/script-wifi-6.JPG" alt="Ejecucion" width="200"/></p></td>
+<td><p align="center"><img src="resources/images/script-wifi-6.png" alt="Ejecucion" width="200"/></p></td>
 </tr>
 <tr>
 <td><p align="center">1. Conectar el pendrive y localizar el script `configure_ull_conecta.bat` y ejecutarlo como `Administrador`.</p></td>
