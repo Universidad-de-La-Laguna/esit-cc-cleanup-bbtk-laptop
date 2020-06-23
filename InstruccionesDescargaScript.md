@@ -4,4 +4,6 @@
 
    2. Vaya a la carpeta `Descargas` y descomprima el fichero descargado `esit-cc-cleanup-bbtk-laptop-master.zip`.
 
-   3. Copie todos los ficheros a un pendrive.
+   3. Copie todos los ficheros a un pendrive en la carpeta raiz.
+   
+> Nota: Es importante que los scripts se encuentren en la carpeta raiz del pendrive (unidad D:) y no en una subcarpeta.
