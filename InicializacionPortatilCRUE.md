@@ -54,13 +54,13 @@ Para que se pueda conectar a la wifi `ULL-CONECTA` es necesario ejecutar el sigu
 
 <table>
 <tr>
-<td><p align="center"><img src="resources/images/script-wifi-1.png" alt="Ejecutar como administrador" width="300"/></p></td>
-<td><p align="center"><img src="resources/images/script-wifi-2.png" alt="Proteccion" width="200"/></p></td>
-<td><p align="center"><img src="resources/images/script-wifi-3.png" alt="Ejecucion" width="200"/></p></td>
+<td><p align="center"><img src="resources/images/script-wifi-4.JPG" alt="Ejecutar como administrador" width="300"/></p></td>
+<td><p align="center"><img src="resources/images/script-wifi-5.JPG" alt="Proteccion" width="200"/></p></td>
+<td><p align="center"><img src="resources/images/xxx.JPG" alt="Ejecucion" width="200"/></p></td>
 </tr>
 <tr>
 <td><p align="center">1. Conectar el pendrive y localizar el script `configure_ull_conecta.bat` y ejecutarlo como `Administrador`.</p></td>
-<td><p align="center">2. Si aparece la pantalla `Windows pretegió su PC`, pulsar en el enlace `Más información`.</p></td>
-<td><p align="center">3. Pulsar el botón `Ejecutar de todos modos`.</p></td>
+<td><p align="center">2. Pulsar el botón `Sí` en la pantalla de permitir que esta aplicación haga cambios en el dispositivo.</p></td>
+<td><p align="center">3. Debe aparecer una ventana negra con el mensaje 'xxx'. Pulsar 'Enter' para cerrar la ventana.</p></td>
 </tr>
 </table>
